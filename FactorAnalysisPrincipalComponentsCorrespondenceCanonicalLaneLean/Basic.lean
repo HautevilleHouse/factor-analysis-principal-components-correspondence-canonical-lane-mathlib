@@ -1,0 +1,2 @@
+import FactorAnalysisPrincipalComponentsCorrespondenceCanonicalLaneLean.GateLemmas
+import FactorAnalysisPrincipalComponentsCorrespondenceCanonicalLaneLean.FinalTheorem
